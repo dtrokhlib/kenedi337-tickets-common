@@ -13,3 +13,4 @@ export class NotFoundError extends CustomError {
     return [{ message: 'Not found' }];
   }
 }
+ 
